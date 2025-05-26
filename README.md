@@ -85,7 +85,7 @@ class TechnicalSkills:
 
 - **Dean's List Scholar** with 3.71/4.00 CGPA
 - **6 Courses Teaching Assistant** - Algorithm Design, Data Structures, Theory of Computation
-- **Research Publications** in programming language theory and formal verification
+- **Research** in programming language theory and formal verification
 - **High-Performance Systems** handling 10,000+ concurrent users
 - **Open Source Contributions** to distributed systems and ML projects
 
