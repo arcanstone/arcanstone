@@ -10,9 +10,9 @@
 
 ## About Me
 
-I'm a passionate Computer Science and Mathematics student at the University of Toronto with a strong foundation in **distributed systems**, **deep learning**, and **programming language design**. As a Software Engineering Research Assistant, I'm advancing the frontiers of **dependently-typed functional programming** and **formal verification**.
+I'm a passionate Computer Science and Mathematics student at the University of Toronto with a strong foundation in **distributed systems**, **deep learning**, and **programming language design**. As a Software Engineering Research Assistant, I worked with **dependently-typed functional programming** and **formal verification**.
 
-**Current Focus:** Developing next-generation programming languages for mathematical proof construction and high-performance distributed systems.
+**Current Focus:** Developing programming languages for mathematical proof construction and high-performance distributed systems.
 
 ## Research & Innovation
 
@@ -81,12 +81,6 @@ class TechnicalSkills:
         ]
 ```
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanstone&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## Impact & Achievements
 
 - **Dean's List Scholar** with 3.71/4.00 CGPA
@@ -108,7 +102,7 @@ As a Teaching Assistant at UofT, I've guided students through complex topics in:
 ## What I'm Working On
 
 - **Research**: Advanced type systems and proof assistants
-- **Systems**: Next-generation distributed architectures
+- **Systems**: Distributed architectures
 - **AI/ML**: Computer vision and generative models
 - **Learning**: Exploring quantum computing and cryptography
 
