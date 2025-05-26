@@ -14,7 +14,7 @@ I'm a passionate Computer Science and Mathematics student at the University of T
 
 **Current Focus:** Developing programming languages for mathematical proof construction and high-performance distributed systems.
 
-## Research & Innovation
+## Research
 
 ### Dependently-Typed Programming Language Research
 - **Extending Pie Language**: Building advanced features for formal proof construction
