@@ -1,4 +1,4 @@
-# Allan Henriques 👋
+# Allan Henriques
 
 **Computer Science & Mathematics @ University of Toronto** | **Research Assistant**
 
