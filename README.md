@@ -1,6 +1,6 @@
 # Allan Henriques 👋
 
-**Computer Science & Mathematics @ University of Toronto** | **Dean's List Scholar** | **Research Assistant**
+**Computer Science & Mathematics @ University of Toronto** | **Research Assistant**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-henriques-5a1405239/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanhenriques007@gmail.com)
@@ -37,7 +37,7 @@ I'm a passionate Computer Science and Mathematics student at the University of T
 - Outperforms traditional interpolation methods in preserving fine details
 - Applications in gaming, drone imaging, and medical microscopy
 
-### 🥔 [Potential Potato](https://github.com/mooddood235/PotentialPotato)
+### [Potential Potato](https://github.com/mooddood235/PotentialPotato)
 **Dependently-Typed Functional Programming Language**
 - Extended Pie language with recursive functions and pattern matching
 - Universe type hierarchy preventing logical paradoxes
@@ -51,57 +51,9 @@ I'm a passionate Computer Science and Mathematics student at the University of T
 - CI/CD pipeline with Docker, achieving **98% uptime**
 - Performance tested with k6 for high-traffic scalability
 
-## Technical Expertise
-
-```python
-class TechnicalSkills:
-    def __init__(self):
-        self.languages = [
-            "Python", "JavaScript/TypeScript", "Java", "Go", 
-            "C++", "C", "Haskell", "Racket", "SQL"
-        ]
-        self.systems = [
-            "Distributed Systems", "Microservices", "Load Balancing",
-            "Database Sharding", "Fault Tolerance"
-        ]
-        self.ai_ml = [
-            "Deep Learning", "GANs", "Neural Networks", 
-            "Computer Vision", "PyTorch"
-        ]
-        self.web_dev = [
-            "React", "Node.js", "RESTful APIs", "Full-Stack Development",
-            "Real-time Applications"
-        ]
-        self.databases = [
-            "PostgreSQL", "SQLite", "MongoDB", "Firebase"
-        ]
-        self.devops = [
-            "Docker", "GitLab CI/CD", "Heroku", "Netlify", 
-            "Performance Testing (k6)"
-        ]
-```
-
-## Impact & Achievements
-
-- **Dean's List Scholar** with 3.71/4.00 CGPA
-- **6 Courses Teaching Assistant** - Algorithm Design, Data Structures, Theory of Computation
-- **Research** in programming language theory and formal verification
-- **High-Performance Systems** handling 10,000+ concurrent users
-- **Open Source Contributions** to distributed systems and ML projects
-
-## Teaching & Mentorship
-
-As a Teaching Assistant at UofT, I've guided students through complex topics in:
-- **Algorithm Design and Complexity Analysis**
-- **Data Structures and their Applications**
-- **Theory of Computation and Formal Methods**
-- **Mathematical Foundations** (Linear Algebra, Calculus)
-
-*Developed automated testing frameworks improving grading efficiency and student feedback quality.*
-
 ## What I'm Working On
 
-- **Research**: Advanced type systems and proof assistants
+- **Research**: Type systems and proof assistants
 - **Systems**: Distributed architectures
 - **AI/ML**: Computer vision and generative models
 - **Learning**: Exploring quantum computing and cryptography
