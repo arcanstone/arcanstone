@@ -25,10 +25,10 @@ I'm a passionate Computer Science and Mathematics student at the University of T
 
 ### [Distributed URL Shortener](https://github.com/arcanstone/DistributedURLShortener)
 **High-Performance Distributed Systems in Java**
-- **50,000+ req/sec** throughput with **2.3ms average latency**
+- Can handle **50,000+ req/sec** throughput with **2.3ms average latency**
 - Consistent hashing, automatic failover, and horizontal scalability
 - Custom load-balancing proxy with LRU caching (**40% latency reduction**)
-- Supports **10,000+ concurrent users** with 99.9% uptime
+- Supports **10,000+ concurrent users** with 98% uptime
 
 ### [Deep Learning Super Sampling](https://github.com/HarshitGupta29/DeepLearningSuperSampling)
 **SRGAN + Neural Radiance Fields Integration**
