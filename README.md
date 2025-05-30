@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a  Computer Science and Mathematics student at the University of Toronto with a strong foundation in distributed systems**, **deep learning**, and **programming language design**. As a Software Engineering Research Assistant, I worked with **dependently-typed functional programming** and **formal verification**.
+I'm a  Computer Science and Mathematics student at the University of Toronto with a strong foundation in distributed systems, deep learning, and programming language design. As a Software Engineering Research Assistant, I worked with dependently-typed functional programming and formal verification.
 
 **Current Focus:** Developing programming languages for mathematical proof construction and working with high-performance distributed systems.
 
