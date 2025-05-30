@@ -2,11 +2,6 @@
 
 **Computer Science & Mathematics @ University of Toronto**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-henriques-5a1405239/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanhenriques007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcanstone)
-
-
 ## About Me
 
 I'm a  Computer Science and Mathematics student at the University of Toronto with a strong foundation in distributed systems**, **deep learning**, and **programming language design**. As a Software Engineering Research Assistant, I worked with **dependently-typed functional programming** and **formal verification**.
