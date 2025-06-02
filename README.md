@@ -9,7 +9,7 @@ I'm a  Computer Science and Mathematics student at the University of Toronto wit
 **Current Focus:** Developing programming languages for mathematical proof construction and working with high-performance distributed systems.
 
 ### Research
- - **Extending Pie Language**: Building advanced features for formal proof construction
+ - **Extending the Pie Language**: Adding features for formal proof construction
 
 **Email:** allanhenriques007@gmail.com  
 **LinkedIn:** [allan-henriques](https://www.linkedin.com/in/allan-henriques-5a1405239/)  
