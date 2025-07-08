@@ -1,3 +1,5 @@
-# Allan Henriques
+**Allan Henriques**
 
-**Computer Science & Mathematics @ University of Toronto**
+**CS & Math @ University of Toronto**
+
+allan.henriques at mail.utoronto.ca
