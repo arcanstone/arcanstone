@@ -1,5 +1,6 @@
-**Allan Henriques**
+### Allan Henriques
 
-**CS & Math @ University of Toronto**
+#### *CS & Math @ University of Toronto*
 
-allan.henriques at mail.utoronto.ca
+
+ &nbsp;&nbsp;&nbsp;&nbsp;allan.henriques at mail.utoronto.ca
