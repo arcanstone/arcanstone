@@ -1,3 +1,3 @@
 ## current interest:
-### Building an AI marking assistant for introductory math and computer science classes.
-### Also the intersection of machine learning and robotics
+### - The intersection of machine learning and robotics
+### - Building an AI marking assistant for introductory math and computer science classes.
