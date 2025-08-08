@@ -1,4 +1,4 @@
-##### I try to avoid using tech which isn't ethical. Unfortunately you may find some of these in my past projects that are stored elsewhere. Unethical tech includes:
+##### Difficult to be a good christian and person in general if you're aware of and using tech owned by companies with military ties to israel. Unethical tech includes:
 - ##### Amazon (EC2, S3, Lambda, RDS, CloudWatch, SageMaker)
 - ##### Google (Compute Engine, App Engine, Firebase, BigQuery, Vertex AI)
 - ##### Microsoft (Azure VMs, Cosmos DB, Azure ML, Logic Apps, Azure DevOps)
