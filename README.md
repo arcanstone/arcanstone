@@ -4,4 +4,4 @@
 - ##### Microsoft (Azure VMs, Cosmos DB, Azure ML, Logic Apps, Azure DevOps)
 
 #### current interest:
-- ##### Building tools to help accelerate marking in introductory math classes
+- ##### Building tools to help accelerate marking in introductory math and proofs classes
